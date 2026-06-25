@@ -1,6 +1,6 @@
 # Xgorobot
-# 📢 我们搬家啦！/ We Have Moved!
+# 📢 We Have Moved!
 
-xgorobot 的所有核心开源项目、代码库以及后续维护已全面移交给 **Luwu Dynamics (陆吾智能)** 组织。
+All core open-source projects, codebases, and ongoing maintenance for xgorobot have been fully transferred to the **Luwu Dynamics** organization.
 
-👉 **请访问我们的全新官方组织主页：[github.com/luwudynamics](https://github.com/luwudynamics)**
+👉 **Please visit our brand-new official organization homepage.：[github.com/luwudynamics](https://github.com/luwudynamics)**
